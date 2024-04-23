@@ -1,7 +1,7 @@
 {
-  "name": "chrome-power",
+  "name": "chrome-fp",
   "description": "The first open source fingerprint browser.",
-  "version": "1.1.3",
+  "version": "1.0.0",
   "private": true,
   "author": {
     "email": "zmzimpl@gmail.com",
